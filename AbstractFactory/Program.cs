@@ -1,6 +1,6 @@
 ﻿using AbstractFactory.ClientClass;
 using AbstractFactory.Creator;
-
+//
 Console.Title = "Abstract Factory";
 
 var belgiumShoppingCartPurchaseFactory = new BelgiumShoppingCartPurchaseFactory();
