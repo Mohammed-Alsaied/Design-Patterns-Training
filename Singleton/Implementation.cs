@@ -64,7 +64,7 @@
         //            _instance = new Logger();
         //        }
         //        return _instance;
-        //    }
+        //    } 
         //}
         ////1.Make Constructor Protected/Private
         //protected Logger()
