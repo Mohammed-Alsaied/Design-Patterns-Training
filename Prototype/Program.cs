@@ -12,7 +12,7 @@ Console.Title = "Prototype";
 //    $"with manager {employeeClone.manager.Name}");
 
 ////change manager name
-//managerClone.Name = "Karen";
+//managerClone.Name = "Karen"; 
 //Console.WriteLine($"Employee was cloned: {employeeClone.Name}," +
 //    $"with manager {employeeClone.manager.Name}");
 #endregion
